@@ -1,2 +1,2 @@
 # ICFOSS
-ICFOSS repository
+ICFOSS repository - used to demo git commands.
